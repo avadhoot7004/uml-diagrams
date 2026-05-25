@@ -6,55 +6,13 @@ QueryTalk AI is an AI-powered database interaction platform that enables users t
 
 The system converts plain English prompts into optimized SQL queries, securely executes them, and generates dashboards, charts, and insights in real time.
 
----
-
-# Features
-
-- Natural Language Database Querying
-- AI-Based SQL Generation
-- Secure Database Connections
-- Real-Time Data Visualization
-- AI-Generated Dashboards & Charts
-- Conversational Data Analysis
-- Trend Analysis & Insights
-- Schema-Aware Query Understanding
-- Multi-Database Support
-
----
-
-# Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | React / Next.js |
-| Backend | FastAPI / Node.js |
-| AI Model | OpenAI / Claude |
-| Database | PostgreSQL / MySQL |
-| Visualization | Chart.js / Recharts |
-| Deployment | Vercel / Render |
-
----
-
-# System Workflow
-
-1. User enters natural language query
-2. AI processes user intent
-3. Schema context is retrieved
-4. SQL query is generated
-5. Query is validated
-6. Database executes query
-7. Results are visualized
-8. Dashboard and insights are generated
-
----
-
 # UML Diagrams
 
 ## 1. Use Case Diagram
 
 Shows interaction between users and the system.
 
-![Use Case Diagram](./usecase-diagram.png)
+![Use Case Diagram](./use-case.png)
 
 ---
 
