@@ -50,20 +50,9 @@ Shows high-level architecture and system modules.
 
 ---
 
-# Example Queries
+## 7. Deployment Diagram
 
-```sql
-Show total sales for the last 6 months
-```
+Shows high-level architecture and system modules.
 
-```sql
-Find top 10 customers by spending
-```
+![Component Diagram](./deployment_diagram.png)
 
-```sql
-Generate monthly revenue trend chart
-```
-
-```sql
-Show products with low inventory
-```
