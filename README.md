@@ -38,7 +38,7 @@ Shows the sequence of operations from user query to dashboard generation.
 
 Represents internal workflow and processing logic.
 
-![Activity Diagram](./activity-diagram.png)
+![Activity Diagram](./activity_diagram.png)
 
 ---
 
