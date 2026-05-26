@@ -1,12 +1,6 @@
-# QueryTalk AI
-
-## AI-Powered Natural Language Database Interaction Platform
-
-QueryTalk AI is an AI-powered database interaction platform that enables users to query databases using natural language instead of writing SQL manually.
-
-The system converts plain English prompts into optimized SQL queries, securely executes them, and generates dashboards, charts, and insights in real time.
-
 # UML Diagrams
+
+Examples of different types of UML Diagrams.
 
 ## 1. Use Case Diagram
 
