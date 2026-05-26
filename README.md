@@ -46,7 +46,7 @@ Represents internal workflow and processing logic.
 
 Shows high-level architecture and system modules.
 
-![Component Diagram](./component-diagram.png)
+![Component Diagram](./component_diagram.png)
 
 ---
 
